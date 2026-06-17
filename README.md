@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there! 👋 I'm M Heera Shanker
 
-<!--
-**Imhs14/Imhs14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An **Data Science Engineer & AL/ML Enthusiast** passionate about building intelligent, scalable solutions and extracting actionable insights from complex data. 
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Currently pursuing my B.Tech, focusing on Python, Machine Learning, and Big Data technologies.
+- 💡 Recently completed the **Tata iQ Data Analytics Simulation** and **14 Google Cloud Gen AI Academy 2.0** learning tracks.
+- 📜 Recently Completed Few Courses on **Anthropic's Claude chat, cowork and Claude Code**
+- 🎯 Currently building full-stack applications and NLP-driven models.
+- 💼 Open to **Summer 2026 data analyst, AI Engineering** and Data Science internship and Job opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:** Python, SQL, JavaScript, HTML/CSS  
+**AI & Data Science:** Machine Learning, NLP, Scikit-Learn, Pandas, NumPy, Hadoop  
+**Cloud & DevOps:** Google Cloud Platform (GCP), Git, GitHub  
+**Tools:** VS Code, Jupyter Notebook  
+
+---
+
+### 💻 Featured Projects
+
+#### 📊 Customer Churn Prediction
+Developed an end-to-end predictive modeling system to identify high-risk customer segments. Leveraged extensive Exploratory Data Analysis (EDA) and machine learning algorithms to uncover trends and improve retention strategies.
+
+#### 🧠 Product Recommendation System
+Built a content-based recommendation engine utilizing Natural Language Processing (NLP) techniques to analyze item features and personalize recommendations, enhancing the overall user experience.
+
+#### 🏨 Full-Stack Hotel Management System
+Designed a comprehensive management platform featuring multiple user dashboards. Implemented a robust Python backend integrated with a dynamic JavaScript/CSS frontend to streamline hotel operations.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imhs14&show_icons=true&theme=radical" alt="Heera's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhs14&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/mheerashanker/)
+- [Email](heerashanker0214@gmail.com)
