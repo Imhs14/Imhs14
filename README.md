@@ -8,6 +8,8 @@ An **Data Science Engineer & AL/ML Enthusiast** passionate about building intell
 - 📜 Recently Completed Few Courses on **Anthropic's Claude chat, cowork and Claude Code**
 - 🎯 Currently building full-stack applications and NLP-driven models.
 - 💼 Open to **Summer 2026 data analyst, AI Engineering** and Data Science internship and Job opportunities.
+- ⌛️ Actively Solving Questions on LeetCode and Hackerrank
+- 🧩 Building my skills Enthusiasticly and with decication. Trying to solve real problems and make the world a better place.
 
 ---
 
