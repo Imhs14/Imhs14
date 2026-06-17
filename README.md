@@ -30,9 +30,14 @@ Developed an end-to-end predictive modeling system to identify high-risk custome
 #### 🧠 Product Recommendation System
 Built a content-based recommendation engine utilizing Natural Language Processing (NLP) techniques to analyze item features and personalize recommendations, enhancing the overall user experience.
 
-#### 🏨 Full-Stack Hotel Management System
-Designed a comprehensive management platform featuring multiple user dashboards. Implemented a robust Python backend integrated with a dynamic JavaScript/CSS frontend to streamline hotel operations.
+#### 💻 Oasis Infobyte Internship Program (OIBSIP)
+Participated in an AICTE-approved virtual internship, maintaining a structured project submission schedule via GitHub. Key project deliverables included:
+- **[Insert Task 1, e.g., Iris Flower Classification]:** [ Built a classification model using Scikit-Learn].
+- **[Insert Task 2, e.g., Spam Email Detection]:** [ Developed an NLP-based spam filter using Python].
+- **[Insert Task 3, e.g., Car Price Prediction]:** [ Applied linear regression techniques to predict vehicle pricing].
 
+#### 🏠 House Price Prediction Model
+Developed a machine learning regression model to accurately forecast real estate prices based on property attributes. Conducted extensive data cleaning, feature engineering, and exploratory data analysis (EDA) to optimize model performance.
 ---
 
 ### 📈 GitHub Stats
