@@ -17,6 +17,7 @@ An **Data Science Engineer & AL/ML Enthusiast** passionate about building intell
 
 **Languages:** Python, SQL, JavaScript, HTML/CSS  
 **AI & Data Science:** Artificial Intelligence, Machine Learning, NLP, Scikit-Learn, Pandas, NumPy
+
 **Cloud & DevOps:** AWS, Google Cloud Platform (GCP), Git, GitHub  
 **Tools:** VS Code, Jupyter Notebook  
 
