@@ -38,6 +38,7 @@ Participated in an AICTE-approved virtual internship, maintaining a structured p
 
 #### 🏠 House Price Prediction Model
 Developed a machine learning regression model to accurately forecast real estate prices based on property attributes. Conducted extensive data cleaning, feature engineering, and exploratory data analysis (EDA) to optimize model performance.
+
 ---
 
 ### 📈 GitHub Stats
