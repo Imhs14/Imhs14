@@ -30,14 +30,18 @@ Developed an end-to-end predictive modeling system to identify high-risk custome
 #### 🧠 Product Recommendation System
 Built a content-based recommendation engine utilizing Natural Language Processing (NLP) techniques to analyze item features and personalize recommendations, enhancing the overall user experience.
 
-#### 💻 Oasis Infobyte Internship Program (OIBSIP)
-Participated in an AICTE-approved virtual internship, maintaining a structured project submission schedule via GitHub. Key project deliverables included:
-- **[Insert Task 1, e.g., Iris Flower Classification]:** [ Built a classification model using Scikit-Learn].
-- **[Insert Task 2, e.g., Spam Email Detection]:** [ Developed an NLP-based spam filter using Python].
-- **[Insert Task 3, e.g., Car Price Prediction]:** [ Applied linear regression techniques to predict vehicle pricing].
-
 #### 🏠 House Price Prediction Model
 Developed a machine learning regression model to accurately forecast real estate prices based on property attributes. Conducted extensive data cleaning, feature engineering, and exploratory data analysis (EDA) to optimize model performance.
+
+#### 💻 Oasis Infobyte Python Internship (OIBSIP)
+Completed a self-paced, AICTE-approved virtual internship focusing on practical Python application development. Key project deliverables included:
+* **Voice Assisstant:** Developed a functional Python application (`main.py`) designed to Take the command and answer to it, it can open github, youtube, browser and search stuff on it.
+* **BMI Calculator:** Built an interactive application (`bmi_app.py`) to calculate Body Mass Index, efficiently processing user inputs to provide immediate and accurate health categorizations.
+* **Secure Password Generator:** Engineered a customizable password creation tool (`password_generator.py`) utilizing Python to generate robust, randomized security keys based on user-defined length and character parameters.
+* **Weather Updates:** Designed and implemented a complete Python application to find the real-time weather report of the city with a very helpful UI which is focusing on clean logic and user experience.
+
+#### 📦 Comprehensive Data Analysis Package (QSkills)
+Engineered an end-to-end data analysis workflow using Python, Pandas, and Matplotlib. The project demonstrates full data processing capabilities—from raw data loading and statistical analysis to the generation of multi-chart visual reports (heatmaps, scatter plots, and trends) to extract actionable business insights.
 
 ---
 
