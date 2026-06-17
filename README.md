@@ -37,11 +37,11 @@ Designed a comprehensive management platform featuring multiple user dashboards.
 
 ### 📈 GitHub Stats
 
-<div align="left">
+<div align="middle">
   <!-- Added &hide=stars,prs,issues,contribs to clean up the 0s -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Imhs14&show_icons=true&theme=radical&hide_rank=true&hide=stars,prs,issues,contribs" alt="Heera's GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhs14&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Imhs14&show_icons=true&theme=radical&hide_rank=true&hide=stars,prs,issues,contribs" alt="Heera's GitHub Stats" />
 </div>
 
 ---
