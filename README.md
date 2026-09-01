@@ -1,49 +1,60 @@
-# Hi there! 👋 I'm M Heera Shanker
-A **Data Science Engineer & AI/ML Enthusiast** passionate about building intelligent, scalable solutions and extracting actionable insights from complex data.
+# Hi there, I'm Malathkar Heera Shanker 👋
 
-### 🚀 About Me
-- 🎓 Currently pursuing my B.Tech, focusing on Python, Machine Learning, and Big Data technologies.
-- 💡 Recently completed the **Tata iQ Data Analytics Simulation** and **Google Cloud Gen AI Academy 2.0** learning tracks.
-- 📜 Recently completed courses on **Anthropic's Claude Chat, Cowork, and Claude Code**
-- 🎯 Currently building full-stack applications and NLP-driven models.
-- 💼 Open to **Summer 2026 Data Analyst, AI Engineering**, and Data Science internship/job opportunities.
-- ⌛ Actively solving problems on LeetCode and HackerRank
-- 🧩 Building my skills with enthusiasm and dedication — trying to solve real problems and make the world a better place.
+**Final Year Data Science Undergraduate | ML & Deep Learning Specialist**
+
+I specialize in building production-grade Machine Learning pipelines, NLP models, and generative AI systems[cite: 1]. Focused on solving real-world data problems with robust algorithms and clean engineering[cite: 1].
+
 ---
-### 🛠️ Tech Stack & Tools
-**Languages:** Python, SQL, JavaScript, HTML/CSS
-**AI & Data Science:** Artificial Intelligence, Machine Learning, NLP, Scikit-Learn, Pandas, NumPy
-**Cloud & DevOps:** AWS, Google Cloud Platform (GCP), Git, GitHub
-**Tools:** VS Code, Jupyter Notebook
+
+### 📈 Verified Metrics & Track Record
+
+* **250+ Algorithmic Problems Solved:** Problem-solving record across LeetCode & HackerRank targeting Data Structures and Algorithms[cite: 1].
+* **85%+ ML Model Accuracy:** Designed and deployed XGBoost customer churn classification pipelines evaluating over 10,000+ customer records[cite: 1].
+* **$R^2 > 0.90$ Regression Performance:** Engineered 20+ feature pipelines for house price prediction models trained on 1,460 samples with 81 features[cite: 1].
+* **15+ NLP Intents Orchestrated:** Built an AI Voice Assistant processing automated workflows across REST APIs (OpenWeatherMap, Wikipedia, Gmail SMTP)[cite: 1].
+* **4 Industry Certifications:** Google Data Analytics, Anthropic Claude Series (Claude Code/Co-work), Tata GenAI Analytics, and HackerRank Python[cite: 1].
+
 ---
-### 💻 Featured Projects
-#### 📊 Customer Churn Prediction
-Developed an end-to-end predictive modeling system to identify high-risk customer segments. Leveraged extensive Exploratory Data Analysis (EDA) and machine learning algorithms to uncover trends and improve retention strategies.
 
-#### 🧠 Product Recommendation System
-Built a content-based recommendation engine utilizing Natural Language Processing (NLP) techniques to analyze item features and personalize recommendations, enhancing the overall user experience.
+### 💻 Live Top Languages Breakdown
 
-#### 🏠 House Price Prediction Model
-Developed a machine learning regression model to accurately forecast real estate prices based on property attributes. Conducted extensive data cleaning, feature engineering, and exploratory data analysis (EDA) to optimize model performance.
+<!-- Dynamic real-time calculation of your top code distribution percentages -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhs14&layout=compact&theme=tokyonight&langs_count=8&count_private=true&cache_seconds=1800" alt="Heera's Top Languages Percentage" />
+</p>
 
-#### 💻 Oasis Infobyte Python Internship (OIBSIP)
-Completed a self-paced, AICTE-approved virtual internship focusing on practical Python application development. Key project deliverables included:
-* **Voice Assistant:** Developed a functional Python application (`main.py`) that takes voice commands and responds — including opening GitHub, YouTube, a browser, and searching the web.
-* **BMI Calculator:** Built an interactive application (`bmi_app.py`) to calculate Body Mass Index, processing user inputs for immediate, accurate health categorizations.
-* **Secure Password Generator:** Engineered a customizable password creation tool (`password_generator.py`) that generates robust, randomized security keys based on user-defined length and character parameters.
-* **Weather Updates:** Designed and implemented a Python application to fetch real-time weather reports for a city, with a clean, user-focused UI.
-
-#### 📦 Comprehensive Data Analysis Package (QSkills)
-Engineered an end-to-end data analysis workflow using Python, Pandas, and Matplotlib. The project demonstrates full data processing capabilities — from raw data loading and statistical analysis to the generation of multi-chart visual reports (heatmaps, scatter plots, and trends) to extract actionable business insights.
 ---
-### 📈 GitHub Stats
-<div align="middle">
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Imhs14&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-stats-extended.vercel.app/api?username=Imhs14&show_icons=true&theme=radical&hide_rank=true&hide=stars,prs,issues,contribs" alt="Heera's GitHub Stats" />
-</div>
+### 🛠️ Technical Stack & Skills
+
+* **Languages:** Python, SQL, C, Java, HTML[cite: 1]
+* **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib[cite: 1]
+* **Data Visualization & Analytics:** Power BI, Tableau, Excel[cite: 1]
+* **Tools & Frameworks:** Git, Jupyter, Streamlit, Hadoop, MapReduce[cite: 1]
+
 ---
-### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/mheerashanker/)
-- [Email](mailto:heerashanker0214@gmail.com)
-- [Streamlit](https://share.streamlit.io/user/imhs14)
+
+### 🚀 Featured Projects
+
+* **Clinical Decision Support System (PharmaRAG):** RAG pipeline integrating RxNorm, OpenFDA, and RxNav APIs for real-time drug interaction and contraindication alerts using Llama 3 models[cite: 1].
+* **Customer Churn Prediction:** Binary classification pipeline on 10,000+ customer records achieving 85%+ accuracy using XGBoost, with a real-time Streamlit dashboard[cite: 1].
+* **House Price Prediction:** Trained regression models (Ridge, Lasso, Gradient Boosting) on Kaggle Ames dataset achieving $R^2 > 0.90$[cite: 1].
+* **AI Voice Assistant (JARVIS):** Full-featured Python voice assistant featuring speech recognition, NLP command processing across 15+ intents, and REST API integrations[cite: 1].
+
+---
+
+### 📊 Real-Time GitHub Activity
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Imhs14&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800" alt="Heera's GitHub Stats" />
+</p>
+
+---
+
+### 🌐 Connect & Find Me
+
+* **GitHub:** [@Imhs14](https://github.com/Imhs14)[cite: 1]
+* **Email:** heerashanker0214@gmail.com[cite: 1]
+* **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/) <!-- Replace with your profile URL slug -->[cite: 1]
+
+```
